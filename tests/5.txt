@@ -1,0 +1,25 @@
+6
+##start
+start 1 1
+a 23 3
+b 16 7
+c 16 3
+d 16 5
+e 9 3
+f 1 5
+g 4 8
+h 9 3
+i 1 5
+##end
+end 9 5
+start-a
+start-c
+b-end
+i-end
+a-b
+c-d
+d-e
+e-f
+f-g
+g-h
+h-i
